@@ -15,4 +15,5 @@ set shiftround
 
 " Color scheme
 set background=dark
+syntax enable
 colorscheme desert
